@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "DotnetBank.Client",
   "resources": {
-    "hash": "sha256-h06fyYDHMi4Y9URS4K/EcmQc9Ns5wt2EAPbcbqqoIHo=",
+    "hash": "sha256-6OnuJ2H0JVnjFOv+LkyI0zxFc/WaH/2jK9nFohLPDU8=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.gf26ou9jj9.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.v3fd2n5hlr.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -201,8 +201,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "DotnetBank.Client.kpnoz7z3b3.wasm": "DotnetBank.Client.wasm",
-      "DotnetBank.Client.5eweahdveh.pdb": "DotnetBank.Client.pdb"
+      "DotnetBank.Client.hv3divj7tf.wasm": "DotnetBank.Client.wasm",
+      "DotnetBank.Client.ad9lsp0cm7.pdb": "DotnetBank.Client.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.hvg7u8bimp.js": "sha256-LX9rFEWGVxhkOkAVPG0w5RxPwzPBlEUz6dQNjWS7M+M="
@@ -412,10 +412,10 @@
       "WindowsBase.5lai2eowco.wasm": "sha256-GcDi5293y2A7oSiFYTbBTUe0d+ISbvgeel4ZNd8KkPM=",
       "mscorlib.wzkfrp7u5k.wasm": "sha256-9PjsU0gaxxz5Vyw++p9DeYUWLsaXbaMS2RbX6wmTUmk=",
       "netstandard.d82br99ghv.wasm": "sha256-DS8keXxU4eQpa1kIoiFxOA2Ii2g9hoNWSaVi8F8AnIE=",
-      "DotnetBank.Client.kpnoz7z3b3.wasm": "sha256-+AJCRgKWWM7N/FTtk8ECB2GDulA4YpeMBfeSSKBqXo4="
+      "DotnetBank.Client.hv3divj7tf.wasm": "sha256-I4305feLeqWxcKE9Ulhx1ybt2BSt+Nz+ZGABMayy7lU="
     },
     "pdb": {
-      "DotnetBank.Client.5eweahdveh.pdb": "sha256-fVlvFWcWwLIWMh6g0r/Ee5W1MUStu3HRdwdvfpRHuo4="
+      "DotnetBank.Client.ad9lsp0cm7.pdb": "sha256-rsIzwcf7A9JDwjHIC1z3vqr93IPeCbNA2sPsTnFWdhE="
     }
   },
   "cacheBootResources": true,

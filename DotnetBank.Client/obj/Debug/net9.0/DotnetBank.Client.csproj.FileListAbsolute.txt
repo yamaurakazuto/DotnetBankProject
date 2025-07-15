@@ -13,8 +13,6 @@
 /Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/dotnet.native.3c4wvb350q.wasm
 /Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/dotnet.runtime.cymp1amu5g.js
 /Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/dotnet.runtime.js.map
-/Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/DotnetBank.Client.5eweahdveh.pdb
-/Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/DotnetBank.Client.kpnoz7z3b3.wasm
 /Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/icudt_CJK.tjcz0u77k5.dat
 /Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/icudt_EFIGS.tptq2av103.dat
 /Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/icudt_no_CJK.lfu7j35m59.dat
@@ -289,7 +287,6 @@
 /Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/System.Private.Xml.Linq.89larmi1tf.wasm.gz
 /Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/System.IO.Compression.Brotli.k5ptxcu8oa.wasm.gz
 /Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/blazor.webassembly.js.gz
-/Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/DotnetBank.Client.kpnoz7z3b3.wasm.gz
 /Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/dotnet.js.gz
 /Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/System.Text.Encoding.Extensions.pa0ing0e1x.wasm.gz
 /Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/System.Runtime.InteropServices.JavaScript.3tj976hrs3.wasm.gz
@@ -311,7 +308,6 @@
 /Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/System.Net.NameResolution.hvkv0vmwu0.wasm.gz
 /Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/Microsoft.Extensions.Configuration.FileExtensions.s0gdlcb6vn.wasm.gz
 /Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/System.ServiceModel.Web.t76w5potav.wasm.gz
-/Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/DotnetBank.Client.5eweahdveh.pdb.gz
 /Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/System.Security.Cryptography.0ojhhiys03.wasm.gz
 /Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/System.Security.Cryptography.OpenSsl.xypyg2056u.wasm.gz
 /Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/System.Net.HttpListener.g1z5na32ay.wasm.gz
@@ -1065,9 +1061,6 @@
 /Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/17ur7wqm0u-tjcz0u77k5.gz
 /Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/gx7r853ddi-tptq2av103.gz
 /Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/r8w1n0jx0c-lfu7j35m59.gz
-/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/eh7wd8yb7a-kpnoz7z3b3.gz
-/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/iy79qojdiz-5eweahdveh.gz
-/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/ai8qqfysc1-luywmvxjas.gz
 /Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/staticwebassets.build.json
 /Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/staticwebassets.development.json
 /Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/staticwebassets.build.endpoints.json
@@ -1082,3 +1075,10 @@
 /Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/refint/DotnetBank.Client.dll
 /Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/DotnetBank.Client.pdb
 /Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/ref/DotnetBank.Client.dll
+/Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/DotnetBank.Client.ad9lsp0cm7.pdb
+/Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/DotnetBank.Client.hv3divj7tf.wasm
+/Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/DotnetBank.Client.hv3divj7tf.wasm.gz
+/Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/DotnetBank.Client.ad9lsp0cm7.pdb.gz
+/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/eh7wd8yb7a-hv3divj7tf.gz
+/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/iy79qojdiz-ad9lsp0cm7.gz
+/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/ai8qqfysc1-veu7bxr3dt.gz

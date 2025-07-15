@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wI76K0BoJ/KUznr9IKsIMvSu5gGkxV+qHPwLaxxtdwI=",
+  "Hash": "Lk0hIXNpEIeNUGYfcK8e9U+JvUbgvjVaKeA41QobO8o=",
   "Source": "DotnetBank.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "luywmvxjas",
-      "Integrity": "bfrOYIgcfIsZ6xQwgJJO9PcLyMHVJHvuCvIey/gDf3A=",
+      "Fingerprint": "veu7bxr3dt",
+      "Integrity": "txRx2DMBuZoONkM2+zNXzriRM/3H+K7Q3OVAWuFfmEA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/blazor.boot.json"
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "5eweahdveh",
-      "Integrity": "fVlvFWcWwLIWMh6g0r/Ee5W1MUStu3HRdwdvfpRHuo4=",
+      "Fingerprint": "ad9lsp0cm7",
+      "Integrity": "rsIzwcf7A9JDwjHIC1z3vqr93IPeCbNA2sPsTnFWdhE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/DotnetBank.Client.pdb"
@@ -220,8 +220,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "kpnoz7z3b3",
-      "Integrity": "+AJCRgKWWM7N/FTtk8ECB2GDulA4YpeMBfeSSKBqXo4=",
+      "Fingerprint": "hv3divj7tf",
+      "Integrity": "I4305feLeqWxcKE9Ulhx1ybt2BSt+Nz+ZGABMayy7lU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/webcil/DotnetBank.Client.wasm"
@@ -5771,7 +5771,7 @@
       "OriginalItemSpec": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/ai8qqfysc1-luywmvxjas.gz",
+      "Identity": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/ai8qqfysc1-veu7bxr3dt.gz",
       "SourceId": "DotnetBank.Client",
       "SourceType": "Computed",
       "ContentRoot": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/",
@@ -5785,8 +5785,8 @@
       "RelatedAsset": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ig9hc828eu",
-      "Integrity": "3ulE4lvSvD+hbsRSMSO/FXwpa0iOGql+3D/Ax+3ujAk=",
+      "Fingerprint": "l4npjvgd5a",
+      "Integrity": "q6+1pZpAh9jnA80iYpws0h7DnaY0l8ITUU/bjKfzabg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json"
@@ -6443,12 +6443,12 @@
       "OriginalItemSpec": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/blazor.webassembly.js"
     },
     {
-      "Identity": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/eh7wd8yb7a-kpnoz7z3b3.gz",
+      "Identity": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/eh7wd8yb7a-hv3divj7tf.gz",
       "SourceId": "DotnetBank.Client",
       "SourceType": "Computed",
       "ContentRoot": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/DotnetBank.Client#[.{fingerprint=kpnoz7z3b3}]!.wasm.gz",
+      "RelativePath": "_framework/DotnetBank.Client#[.{fingerprint=hv3divj7tf}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6457,8 +6457,8 @@
       "RelatedAsset": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/DotnetBank.Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "398tjzjvff",
-      "Integrity": "+eEcxeAiZoLtPFr4I2Kz3P3X2Tvq2YL+B6lamC18jSw=",
+      "Fingerprint": "td7lb9j9uh",
+      "Integrity": "oTc5R869TKUMnxb23YoKBmaXgq44UkiOnt1J5xCAGk0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/DotnetBank.Client.wasm"
@@ -7010,12 +7010,12 @@
       "OriginalItemSpec": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/System.ServiceModel.Web.wasm"
     },
     {
-      "Identity": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/iy79qojdiz-5eweahdveh.gz",
+      "Identity": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/iy79qojdiz-ad9lsp0cm7.gz",
       "SourceId": "DotnetBank.Client",
       "SourceType": "Computed",
       "ContentRoot": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/DotnetBank.Client#[.{fingerprint=5eweahdveh}]!.pdb.gz",
+      "RelativePath": "_framework/DotnetBank.Client#[.{fingerprint=ad9lsp0cm7}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7024,8 +7024,8 @@
       "RelatedAsset": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/DotnetBank.Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "tty8f4yz2v",
-      "Integrity": "r779t3Jo4xe5tJUNMk07yoPW05noPCSUxrJQHW/ZNqQ=",
+      "Fingerprint": "zw84hk54tx",
+      "Integrity": "3Sg/+Hz0TjvIjjaXyrjZWqBI1c4TyjFTLchwNnisrq0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/DotnetBank.Client.pdb"
@@ -10705,11 +10705,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bfrOYIgcfIsZ6xQwgJJO9PcLyMHVJHvuCvIey/gDf3A=\""
+          "Value": "\"txRx2DMBuZoONkM2+zNXzriRM/3H+K7Q3OVAWuFfmEA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Jul 2025 07:44:33 GMT"
+          "Value": "Mon, 14 Jul 2025 11:39:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10719,18 +10719,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bfrOYIgcfIsZ6xQwgJJO9PcLyMHVJHvuCvIey/gDf3A="
+          "Value": "sha256-txRx2DMBuZoONkM2+zNXzriRM/3H+K7Q3OVAWuFfmEA="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/ai8qqfysc1-luywmvxjas.gz",
+      "AssetFile": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/ai8qqfysc1-veu7bxr3dt.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000081280988"
+          "Quality": "0.000081261173"
         }
       ],
       "ResponseHeaders": [
@@ -10740,15 +10740,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12302"
+          "Value": "12305"
         },
         {
           "Name": "ETag",
-          "Value": "\"3ulE4lvSvD+hbsRSMSO/FXwpa0iOGql+3D/Ax+3ujAk=\""
+          "Value": "\"q6+1pZpAh9jnA80iYpws0h7DnaY0l8ITUU/bjKfzabg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Jul 2025 07:44:33 GMT"
+          "Value": "Mon, 14 Jul 2025 11:29:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10768,19 +10768,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"bfrOYIgcfIsZ6xQwgJJO9PcLyMHVJHvuCvIey/gDf3A=\""
+          "Value": "W/\"txRx2DMBuZoONkM2+zNXzriRM/3H+K7Q3OVAWuFfmEA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bfrOYIgcfIsZ6xQwgJJO9PcLyMHVJHvuCvIey/gDf3A="
+          "Value": "sha256-txRx2DMBuZoONkM2+zNXzriRM/3H+K7Q3OVAWuFfmEA="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/ai8qqfysc1-luywmvxjas.gz",
+      "AssetFile": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/ai8qqfysc1-veu7bxr3dt.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10789,7 +10789,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12302"
+          "Value": "12305"
         },
         {
           "Name": "Content-Type",
@@ -10797,11 +10797,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3ulE4lvSvD+hbsRSMSO/FXwpa0iOGql+3D/Ax+3ujAk=\""
+          "Value": "\"q6+1pZpAh9jnA80iYpws0h7DnaY0l8ITUU/bjKfzabg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Jul 2025 07:44:33 GMT"
+          "Value": "Mon, 14 Jul 2025 11:29:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10819,7 +10819,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3ulE4lvSvD+hbsRSMSO/FXwpa0iOGql+3D/Ax+3ujAk="
+          "Value": "sha256-q6+1pZpAh9jnA80iYpws0h7DnaY0l8ITUU/bjKfzabg="
         }
       ]
     },
@@ -10885,7 +10885,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Jul 2025 07:44:33 GMT"
+          "Value": "Fri, 14 Mar 2025 17:04:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10938,7 +10938,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Jul 2025 07:44:33 GMT"
+          "Value": "Fri, 14 Mar 2025 17:04:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11030,7 +11030,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Jul 2025 07:44:33 GMT"
+          "Value": "Thu, 13 Mar 2025 22:25:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11091,7 +11091,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Jul 2025 07:44:33 GMT"
+          "Value": "Thu, 13 Mar 2025 22:25:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11183,7 +11183,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Jul 2025 07:44:33 GMT"
+          "Value": "Thu, 13 Mar 2025 22:25:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11283,7 +11283,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Jul 2025 07:44:33 GMT"
+          "Value": "Thu, 13 Mar 2025 22:25:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11344,7 +11344,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Jul 2025 07:44:33 GMT"
+          "Value": "Thu, 13 Mar 2025 22:25:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11397,7 +11397,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Jul 2025 07:44:33 GMT"
+          "Value": "Thu, 13 Mar 2025 22:25:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11481,7 +11481,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Jul 2025 07:44:33 GMT"
+          "Value": "Thu, 13 Mar 2025 22:25:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11534,7 +11534,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Jul 2025 07:44:33 GMT"
+          "Value": "Thu, 13 Mar 2025 22:25:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12475,7 +12475,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Jul 2025 07:44:33 GMT"
+          "Value": "Thu, 13 Mar 2025 22:25:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12536,7 +12536,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Jul 2025 07:44:33 GMT"
+          "Value": "Thu, 13 Mar 2025 22:25:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12673,7 +12673,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Jul 2025 07:44:33 GMT"
+          "Value": "Thu, 13 Mar 2025 22:25:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12726,7 +12726,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Jul 2025 07:44:33 GMT"
+          "Value": "Thu, 13 Mar 2025 22:25:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12749,7 +12749,7 @@
       ]
     },
     {
-      "Route": "_framework/DotnetBank.Client.5eweahdveh.pdb",
+      "Route": "_framework/DotnetBank.Client.ad9lsp0cm7.pdb",
       "AssetFile": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/DotnetBank.Client.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -12759,7 +12759,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "28460"
+          "Value": "29440"
         },
         {
           "Name": "Content-Type",
@@ -12767,11 +12767,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fVlvFWcWwLIWMh6g0r/Ee5W1MUStu3HRdwdvfpRHuo4=\""
+          "Value": "\"rsIzwcf7A9JDwjHIC1z3vqr93IPeCbNA2sPsTnFWdhE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Jul 2025 07:44:30 GMT"
+          "Value": "Mon, 14 Jul 2025 11:39:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12781,7 +12781,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5eweahdveh"
+          "Value": "ad9lsp0cm7"
         },
         {
           "Name": "label",
@@ -12789,18 +12789,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fVlvFWcWwLIWMh6g0r/Ee5W1MUStu3HRdwdvfpRHuo4="
+          "Value": "sha256-rsIzwcf7A9JDwjHIC1z3vqr93IPeCbNA2sPsTnFWdhE="
         }
       ]
     },
     {
-      "Route": "_framework/DotnetBank.Client.5eweahdveh.pdb",
-      "AssetFile": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/iy79qojdiz-5eweahdveh.gz",
+      "Route": "_framework/DotnetBank.Client.ad9lsp0cm7.pdb",
+      "AssetFile": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/iy79qojdiz-ad9lsp0cm7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000045898931"
+          "Quality": "0.000044200849"
         }
       ],
       "ResponseHeaders": [
@@ -12810,15 +12810,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "21786"
+          "Value": "22623"
         },
         {
           "Name": "ETag",
-          "Value": "\"r779t3Jo4xe5tJUNMk07yoPW05noPCSUxrJQHW/ZNqQ=\""
+          "Value": "\"3Sg/+Hz0TjvIjjaXyrjZWqBI1c4TyjFTLchwNnisrq0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Jul 2025 07:44:33 GMT"
+          "Value": "Mon, 14 Jul 2025 11:39:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12838,13 +12838,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"fVlvFWcWwLIWMh6g0r/Ee5W1MUStu3HRdwdvfpRHuo4=\""
+          "Value": "W/\"rsIzwcf7A9JDwjHIC1z3vqr93IPeCbNA2sPsTnFWdhE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5eweahdveh"
+          "Value": "ad9lsp0cm7"
         },
         {
           "Name": "label",
@@ -12852,13 +12852,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fVlvFWcWwLIWMh6g0r/Ee5W1MUStu3HRdwdvfpRHuo4="
+          "Value": "sha256-rsIzwcf7A9JDwjHIC1z3vqr93IPeCbNA2sPsTnFWdhE="
         }
       ]
     },
     {
-      "Route": "_framework/DotnetBank.Client.5eweahdveh.pdb.gz",
-      "AssetFile": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/iy79qojdiz-5eweahdveh.gz",
+      "Route": "_framework/DotnetBank.Client.ad9lsp0cm7.pdb.gz",
+      "AssetFile": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/iy79qojdiz-ad9lsp0cm7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12867,7 +12867,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "21786"
+          "Value": "22623"
         },
         {
           "Name": "Content-Type",
@@ -12875,11 +12875,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"r779t3Jo4xe5tJUNMk07yoPW05noPCSUxrJQHW/ZNqQ=\""
+          "Value": "\"3Sg/+Hz0TjvIjjaXyrjZWqBI1c4TyjFTLchwNnisrq0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Jul 2025 07:44:33 GMT"
+          "Value": "Mon, 14 Jul 2025 11:39:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12897,7 +12897,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5eweahdveh"
+          "Value": "ad9lsp0cm7"
         },
         {
           "Name": "label",
@@ -12905,12 +12905,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-r779t3Jo4xe5tJUNMk07yoPW05noPCSUxrJQHW/ZNqQ="
+          "Value": "sha256-3Sg/+Hz0TjvIjjaXyrjZWqBI1c4TyjFTLchwNnisrq0="
         }
       ]
     },
     {
-      "Route": "_framework/DotnetBank.Client.kpnoz7z3b3.wasm",
+      "Route": "_framework/DotnetBank.Client.hv3divj7tf.wasm",
       "AssetFile": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/bin/Debug/net9.0/wwwroot/_framework/DotnetBank.Client.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -12920,7 +12920,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15637"
+          "Value": "16149"
         },
         {
           "Name": "Content-Type",
@@ -12928,11 +12928,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+AJCRgKWWM7N/FTtk8ECB2GDulA4YpeMBfeSSKBqXo4=\""
+          "Value": "\"I4305feLeqWxcKE9Ulhx1ybt2BSt+Nz+ZGABMayy7lU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Jul 2025 07:44:31 GMT"
+          "Value": "Mon, 14 Jul 2025 11:39:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12942,7 +12942,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kpnoz7z3b3"
+          "Value": "hv3divj7tf"
         },
         {
           "Name": "label",
@@ -12950,18 +12950,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+AJCRgKWWM7N/FTtk8ECB2GDulA4YpeMBfeSSKBqXo4="
+          "Value": "sha256-I4305feLeqWxcKE9Ulhx1ybt2BSt+Nz+ZGABMayy7lU="
         }
       ]
     },
     {
-      "Route": "_framework/DotnetBank.Client.kpnoz7z3b3.wasm",
-      "AssetFile": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/eh7wd8yb7a-kpnoz7z3b3.gz",
+      "Route": "_framework/DotnetBank.Client.hv3divj7tf.wasm",
+      "AssetFile": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/eh7wd8yb7a-hv3divj7tf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000145053670"
+          "Quality": "0.000140350877"
         }
       ],
       "ResponseHeaders": [
@@ -12971,15 +12971,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6893"
+          "Value": "7124"
         },
         {
           "Name": "ETag",
-          "Value": "\"+eEcxeAiZoLtPFr4I2Kz3P3X2Tvq2YL+B6lamC18jSw=\""
+          "Value": "\"oTc5R869TKUMnxb23YoKBmaXgq44UkiOnt1J5xCAGk0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Jul 2025 07:44:33 GMT"
+          "Value": "Mon, 14 Jul 2025 11:39:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12999,13 +12999,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+AJCRgKWWM7N/FTtk8ECB2GDulA4YpeMBfeSSKBqXo4=\""
+          "Value": "W/\"I4305feLeqWxcKE9Ulhx1ybt2BSt+Nz+ZGABMayy7lU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kpnoz7z3b3"
+          "Value": "hv3divj7tf"
         },
         {
           "Name": "label",
@@ -13013,13 +13013,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+AJCRgKWWM7N/FTtk8ECB2GDulA4YpeMBfeSSKBqXo4="
+          "Value": "sha256-I4305feLeqWxcKE9Ulhx1ybt2BSt+Nz+ZGABMayy7lU="
         }
       ]
     },
     {
-      "Route": "_framework/DotnetBank.Client.kpnoz7z3b3.wasm.gz",
-      "AssetFile": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/eh7wd8yb7a-kpnoz7z3b3.gz",
+      "Route": "_framework/DotnetBank.Client.hv3divj7tf.wasm.gz",
+      "AssetFile": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/eh7wd8yb7a-hv3divj7tf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13028,7 +13028,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6893"
+          "Value": "7124"
         },
         {
           "Name": "Content-Type",
@@ -13036,11 +13036,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+eEcxeAiZoLtPFr4I2Kz3P3X2Tvq2YL+B6lamC18jSw=\""
+          "Value": "\"oTc5R869TKUMnxb23YoKBmaXgq44UkiOnt1J5xCAGk0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Jul 2025 07:44:33 GMT"
+          "Value": "Mon, 14 Jul 2025 11:39:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13058,7 +13058,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kpnoz7z3b3"
+          "Value": "hv3divj7tf"
         },
         {
           "Name": "label",
@@ -13066,7 +13066,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+eEcxeAiZoLtPFr4I2Kz3P3X2Tvq2YL+B6lamC18jSw="
+          "Value": "sha256-oTc5R869TKUMnxb23YoKBmaXgq44UkiOnt1J5xCAGk0="
         }
       ]
     },
@@ -13081,7 +13081,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "28460"
+          "Value": "29440"
         },
         {
           "Name": "Content-Type",
@@ -13089,11 +13089,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fVlvFWcWwLIWMh6g0r/Ee5W1MUStu3HRdwdvfpRHuo4=\""
+          "Value": "\"rsIzwcf7A9JDwjHIC1z3vqr93IPeCbNA2sPsTnFWdhE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Jul 2025 07:44:30 GMT"
+          "Value": "Mon, 14 Jul 2025 11:39:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13103,18 +13103,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fVlvFWcWwLIWMh6g0r/Ee5W1MUStu3HRdwdvfpRHuo4="
+          "Value": "sha256-rsIzwcf7A9JDwjHIC1z3vqr93IPeCbNA2sPsTnFWdhE="
         }
       ]
     },
     {
       "Route": "_framework/DotnetBank.Client.pdb",
-      "AssetFile": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/iy79qojdiz-5eweahdveh.gz",
+      "AssetFile": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/iy79qojdiz-ad9lsp0cm7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000045898931"
+          "Quality": "0.000044200849"
         }
       ],
       "ResponseHeaders": [
@@ -13124,15 +13124,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "21786"
+          "Value": "22623"
         },
         {
           "Name": "ETag",
-          "Value": "\"r779t3Jo4xe5tJUNMk07yoPW05noPCSUxrJQHW/ZNqQ=\""
+          "Value": "\"3Sg/+Hz0TjvIjjaXyrjZWqBI1c4TyjFTLchwNnisrq0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Jul 2025 07:44:33 GMT"
+          "Value": "Mon, 14 Jul 2025 11:39:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13152,19 +13152,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"fVlvFWcWwLIWMh6g0r/Ee5W1MUStu3HRdwdvfpRHuo4=\""
+          "Value": "W/\"rsIzwcf7A9JDwjHIC1z3vqr93IPeCbNA2sPsTnFWdhE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fVlvFWcWwLIWMh6g0r/Ee5W1MUStu3HRdwdvfpRHuo4="
+          "Value": "sha256-rsIzwcf7A9JDwjHIC1z3vqr93IPeCbNA2sPsTnFWdhE="
         }
       ]
     },
     {
       "Route": "_framework/DotnetBank.Client.pdb.gz",
-      "AssetFile": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/iy79qojdiz-5eweahdveh.gz",
+      "AssetFile": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/iy79qojdiz-ad9lsp0cm7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13173,7 +13173,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "21786"
+          "Value": "22623"
         },
         {
           "Name": "Content-Type",
@@ -13181,11 +13181,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"r779t3Jo4xe5tJUNMk07yoPW05noPCSUxrJQHW/ZNqQ=\""
+          "Value": "\"3Sg/+Hz0TjvIjjaXyrjZWqBI1c4TyjFTLchwNnisrq0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Jul 2025 07:44:33 GMT"
+          "Value": "Mon, 14 Jul 2025 11:39:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13203,7 +13203,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-r779t3Jo4xe5tJUNMk07yoPW05noPCSUxrJQHW/ZNqQ="
+          "Value": "sha256-3Sg/+Hz0TjvIjjaXyrjZWqBI1c4TyjFTLchwNnisrq0="
         }
       ]
     },
@@ -13218,7 +13218,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15637"
+          "Value": "16149"
         },
         {
           "Name": "Content-Type",
@@ -13226,11 +13226,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+AJCRgKWWM7N/FTtk8ECB2GDulA4YpeMBfeSSKBqXo4=\""
+          "Value": "\"I4305feLeqWxcKE9Ulhx1ybt2BSt+Nz+ZGABMayy7lU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Jul 2025 07:44:31 GMT"
+          "Value": "Mon, 14 Jul 2025 11:39:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13240,18 +13240,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+AJCRgKWWM7N/FTtk8ECB2GDulA4YpeMBfeSSKBqXo4="
+          "Value": "sha256-I4305feLeqWxcKE9Ulhx1ybt2BSt+Nz+ZGABMayy7lU="
         }
       ]
     },
     {
       "Route": "_framework/DotnetBank.Client.wasm",
-      "AssetFile": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/eh7wd8yb7a-kpnoz7z3b3.gz",
+      "AssetFile": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/eh7wd8yb7a-hv3divj7tf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000145053670"
+          "Quality": "0.000140350877"
         }
       ],
       "ResponseHeaders": [
@@ -13261,15 +13261,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6893"
+          "Value": "7124"
         },
         {
           "Name": "ETag",
-          "Value": "\"+eEcxeAiZoLtPFr4I2Kz3P3X2Tvq2YL+B6lamC18jSw=\""
+          "Value": "\"oTc5R869TKUMnxb23YoKBmaXgq44UkiOnt1J5xCAGk0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Jul 2025 07:44:33 GMT"
+          "Value": "Mon, 14 Jul 2025 11:39:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13289,19 +13289,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+AJCRgKWWM7N/FTtk8ECB2GDulA4YpeMBfeSSKBqXo4=\""
+          "Value": "W/\"I4305feLeqWxcKE9Ulhx1ybt2BSt+Nz+ZGABMayy7lU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+AJCRgKWWM7N/FTtk8ECB2GDulA4YpeMBfeSSKBqXo4="
+          "Value": "sha256-I4305feLeqWxcKE9Ulhx1ybt2BSt+Nz+ZGABMayy7lU="
         }
       ]
     },
     {
       "Route": "_framework/DotnetBank.Client.wasm.gz",
-      "AssetFile": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/eh7wd8yb7a-kpnoz7z3b3.gz",
+      "AssetFile": "/Users/yamaurareito/DotnetBank/DotnetBank.Client/obj/Debug/net9.0/compressed/eh7wd8yb7a-hv3divj7tf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13310,7 +13310,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6893"
+          "Value": "7124"
         },
         {
           "Name": "Content-Type",
@@ -13318,11 +13318,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+eEcxeAiZoLtPFr4I2Kz3P3X2Tvq2YL+B6lamC18jSw=\""
+          "Value": "\"oTc5R869TKUMnxb23YoKBmaXgq44UkiOnt1J5xCAGk0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Jul 2025 07:44:33 GMT"
+          "Value": "Mon, 14 Jul 2025 11:39:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13340,7 +13340,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+eEcxeAiZoLtPFr4I2Kz3P3X2Tvq2YL+B6lamC18jSw="
+          "Value": "sha256-oTc5R869TKUMnxb23YoKBmaXgq44UkiOnt1J5xCAGk0="
         }
       ]
     },

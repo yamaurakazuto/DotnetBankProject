@@ -1,6 +1,7 @@
 <!-- ログイン画面 -->
 
 @page "/login"
+@inject NavigationManager Navigation
 
 <h1>ログイン画面</h1>
 
@@ -26,6 +27,7 @@
         else
         {
             message = $"ログイン成功: {email}";
+            Navigation.NavigateTo("/", forceLoad: true);
         }
     }
 }
